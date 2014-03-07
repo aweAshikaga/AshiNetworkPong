@@ -1,0 +1,4 @@
+a pong game which is meant to play over TCP/IP.
+It is not very user friendly at the moment as you have to
+connect via the command line and then the game starts
+immediatly as soon as there is a connection.
